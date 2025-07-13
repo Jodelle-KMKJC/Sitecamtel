@@ -1,0 +1,36 @@
+
+.menu img{
+    width: 120px;
+    height: 120px;
+    display: inline;
+}
+ul{
+    display: inline;
+    float: right;
+
+}
+li{
+    display: inline;
+}
+a{
+    margin: 5px;
+}
+.contenue{
+    background-color: rgb(43, 39, 39);
+    color: aliceblue;
+}
+.bas img{
+    width: 120px;
+    height: 120px;
+    display: inline;
+    position: absolute;
+    top: 155px;
+    right: 700px;
+}
+.bas p strong{
+    position: absolute;
+    display: inline;
+    top: 155px;
+    right: 70px;
+    font-size: large;
+}
